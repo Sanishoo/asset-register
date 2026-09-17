@@ -2,8 +2,8 @@
 
 AssetRegister is a small local command-line utility that grows in focused stages.
 
-Current stage: 34
-Latest focus: Document owner conventions
+Current stage: 35
+Latest focus: Add testing checklist
 
 ## Goals
 
